@@ -1,0 +1,3 @@
+sharedPreference存储的数据是以键值对的形式存放的，当创建成功后，系统中会生成一个xml文件，当把这个文件从系统中
+导出来放到桌面上，打开观看就会发现里面是你在文本编辑框中输入的文本内容，这里我把导出来的数据放在了项目的包下面的文件夹了。
+sharedpreferenceActivity里面主要写了几个常用的preference：listpreference和checkboxpreference
